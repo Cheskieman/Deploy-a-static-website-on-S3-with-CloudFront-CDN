@@ -150,6 +150,31 @@
 </p> 
 
 
+**Access S3 Content through CloudFront**
+
+
+* On the CloudFront details page, wait until the “Last Modified” section shows a date and time.
+
+  <p align="center">  
+  <img src="resources/CLOUDFRONT COMPLETE Last Modified Daate & Time.png" alt="Display Last Modified Date and Time." />  
+</p> 
+
+* Select the box to copy the Distribution domain name from the details page.
+<p align="center">  
+  <img src="resources/CLOUDFRONT COMPLETE Distribution Domain Name.png" alt="Select the Distribution Domain Name" />  
+</p> 
+* Paste the Distribution domain name, followed by "/index.html" into the URL.
+<p align="center">  
+  <img src="resources/CLOUDFRONT COMPLETE paste into url .png" alt="Paste the Distribution Domain Name into the URL." />  
+</p> 
+* The static website displays. 
+<p align="center">  
+  <img src="resources/CLOUDFRONT COMPLETE Static Website Display.png" alt=" Display Static Website." />  
+</p> 
+  
+
+
+
 
 
 
