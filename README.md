@@ -9,6 +9,8 @@
 * Create an S3 Bucket and Upload Content to that S3 Bucket
 
 * Create a Distribution in CloudFront that uses an Amazon S3 origin with Origin Access Control.
+
+* Access S3 Content through CloudFront
   
 
 
